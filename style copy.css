@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(240, 17, 221);
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.labelbox{
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.copyright{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    
+}
+
+#button_total{
+    width: 130px;
+    height: 40px;
+    width: 210px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(77, 67, 224);
+    font-size: 20px;
+}
+.content{
+    margin-top: 100px;
+    margin-bottom: 200px;
+    
+    text-align: center;
+   
+}
+
+.numberlabel{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+.plus{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+    
+}
+.emoji{
+    font-size: 100px;
+}
+.header p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+}
+img{
+    height: 400px;
+}
+.pls{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: white;
+    font-size: 40px;
+}

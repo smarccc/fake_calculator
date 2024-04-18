@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(77, 67, 224);
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.labelbox{
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.copyright{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    
+}
+
+#button_total{
+    width: 130px;
+    height: 40px;
+    width: 210px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(77, 67, 224);
+    font-size: 20px;
+}
+.content{
+    margin-top: 100px;
+    margin-bottom: 200px;
+   
+}
+
+.numberlabel{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+.plus{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+    
+}
